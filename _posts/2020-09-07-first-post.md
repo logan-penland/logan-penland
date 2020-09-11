@@ -3,7 +3,7 @@ layout: post
 title: About Me
 ---
 
-###About Me
+### **About Me**
 
 This is my **introductory blog**.
 
