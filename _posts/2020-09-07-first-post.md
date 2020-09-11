@@ -3,6 +3,8 @@ layout: post
 title: About Me
 ---
 
+###About Me
+
 This is my **introductory blog**.
 
 >“All we have to decide is what to do with the time that is given us.” -J.R.R. Tolkien
