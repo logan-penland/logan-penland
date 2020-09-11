@@ -5,6 +5,8 @@ title: About Me
 
 This is my **introductory blog**.
 
+>“All we have to decide is what to do with the time that is given us.” -J.R.R. Tolkien
+
 
 Hello! My name is Logan Penland and I am a Senior English Major at **Christopher Newport University** in Newport News, Virginia. This blog will be a collection of my assignments and ideas regarding the Digital Humanities. I first took an interest in this course once I finally learned what exactly the Digital Humanities is, which is the academic field that combines traditional scholarship with modern technology. This immediately intrigued me, because with the ever-growing wave of academic technology, and my passion for English and writing, it seemed imperative to get a grasp on the many ways that writing is woven in! Hopefully, at the end of this course I will have a greater understanding of the Digital Humanities as a whole, as well as make myself a better writer along a fresh medium. 
 
