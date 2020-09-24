@@ -4,7 +4,7 @@ title: About Me
 ---
 
 
-### **About Me**
+### **Getting to Know Logan Penland**
 
 This is my **introductory blog**.
 
