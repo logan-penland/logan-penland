@@ -7,7 +7,7 @@
 
 **Project URL:** [http://menus.nypl.org/menus](http://menus.nypl.org/menus)
 
-![Whats on the menu screenshot](https://github.com/logan-penland/logan-penland/blob/master/images/Menu%20Screenshot.png =250x250)
+![Whats on the menu screenshot](https://github.com/logan-penland/logan-penland/blob/master/images/Menu%20Screenshot.png=250x250)
 
 There is over a century’s worth of restaurant menus at the New York Public Library’s disposal, thanks to Miss Frank E. Buttolph. She began collecting these menus in the year 1900, and she gathered 25,000 of these items on her own. Since then, the efforts to grow the Library’s collection has sparked nearly 45,000 menus to be collected by the patrons and staff of the New York Public Library. In 2011, a team headed by Ben Vershbow and a large number of volunteers began to transcribe the food and beverage items available on these documents, to compose an impressive project within the Digital Humanities.
 	
