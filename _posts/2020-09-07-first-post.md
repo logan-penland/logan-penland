@@ -1,7 +1,3 @@
----
-layout: post
-title: About Me
----
 
 
 ### **Get to Know Logan Penland**
