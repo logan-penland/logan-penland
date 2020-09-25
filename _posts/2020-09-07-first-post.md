@@ -1,5 +1,3 @@
-
-
 ### **Get to Know Logan Penland**
 
 This is my **introductory blog**.
