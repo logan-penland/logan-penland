@@ -27,6 +27,6 @@ Beyond all of this, however, I am a huge movie, superhero, outdoors, and dog lov
 
 
 
-![Logan on Mountain](https://github.com/logan-penland/logan-penland.github.io/blob/master/images/logan%20on%20mountain.jpg?raw=true)
+![Logan on Mountain](https://logan-penland.github.io/logan-penland//images/logan%20on%20mountain.jpg?raw=true)
 
-theme: jekyll-theme-midnight
+
