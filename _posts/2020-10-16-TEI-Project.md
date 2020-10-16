@@ -1,5 +1,5 @@
 ### **Translating Charlotte Perkins Stetson's, "The Yellow Wall-Paper" to TEI: A Beginner's TEI Experience**
-
+*   *   *   *   *   *   *   *   *
 
 ![The Yellow Wall-Paper Screenshot](https://github.com/logan-penland/logan-penland/blob/master/images/Yellow%20Wall-Paper%20Screenshot.png?raw=true)
 
