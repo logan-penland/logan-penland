@@ -21,6 +21,6 @@ At first, the different colors and symbols were overwhelming and foreign to me, 
 TEI is an important aspect of the Digital Humanities, because once old or paper texts are translated to this format, they are able to be read and processed by machines, like computers! This provides for a much more thorough analysis of works and the ability to manipulate or find specific sections of old, paper, or even ancient texts. This project taught me a great deal about the work that goes into translating text to the TEI format, like copying it exactly as the source and then utilizing code in software like Oxygen. This knowledge is incredibly valuable to me as an English major, because much of the work I do revolves around using texts on the internet or scholarly databases. Not only do I now understand the extensive work and careful steps needed to make these texts available to people like me, but I have a much deeper appreciation for the Digital Humanities as a whole. 
 
 
-This is what the Author view of the TEI coding looked like when I was finished!
+This is what the Author view of the TEI coding looked like when I was finished. Feel free to compare it to the original passage from the story shown at the beggining of this blog!
 
 ![Author View of Oxygen TEI Code](https://github.com/logan-penland/logan-penland/blob/master/images/New%20Author%20View%20TEI.png?raw=true)
